@@ -9,3 +9,8 @@ Overview of Project
 
 ---
 Resources:
+Software: 
+* Python
+* Anaconda Navigator 
+* Conda
+* Jupyter Notebook 
