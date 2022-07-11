@@ -7,12 +7,14 @@ The purpose of this analysis is to use unsupervised machine, learning to create 
 #### Deliverable 1: Preprocessing the Data for PCA
 
 #### Deliverable 2: Reducing Data Dimensions Using PCA
-
+Applying the Principal Component Analysis (PCA) algorithm, you’ll reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
 #### Deliverable 3: Clustering Cryptocurrencies Using K-means
+
 Cluster Analysis with k-Means
 Create an elbow plot to identify the best number of clusters. Use a for-loop to determine the inertia for each k between 1 through 10. Determine, if possible, where the elbow of the plot is, and at which value of k it appears.
 
 <img src="https://github.com/Tifarahani/cryptocurrency_clustering/blob/main/Resources/img/Elbow_Curve.png">
+
 #### Deliverable 4: Visualizing Cryptocurrencies Results
 
 <p align="center">  
