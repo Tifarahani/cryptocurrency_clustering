@@ -24,6 +24,7 @@ The purpose of this analysis is to use unsupervised machine, learning to create 
 <p align="center">  
 <i>Figure 1:2D-Scatter plot with TotalCoinMined vs TotalCoinSupply </i>
 </p>
+
 ---
 
 * Resources:
