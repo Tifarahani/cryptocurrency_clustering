@@ -8,6 +8,9 @@ The purpose of this analysis is to use unsupervised machine, learning to create 
 
 #### Deliverable 2: Reducing Data Dimensions Using PCA
 Applying the Principal Component Analysis (PCA) algorithm, you’ll reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
+
+<img src="https://github.com/Tifarahani/cryptocurrency_clustering/blob/main/Resources/img/Deliv.2.1.png">
+
 #### Deliverable 3: Clustering Cryptocurrencies Using K-means
 
 Cluster Analysis with k-Means
