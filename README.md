@@ -29,13 +29,13 @@ Create an elbow plot to identify the best number of clusters. Use a for-loop to 
 <img src="https://github.com/Tifarahani/cryptocurrency_clustering/blob/main/Resources/img/3D_Visual.png">
 </p>
 <p align="center">  
-<i>Figure 1:3D-Scatter plot with clusters </i>
+<i>3D-Scatter plot with clusters </i>
 </p>
 <p align="center">  
 <img src="https://github.com/Tifarahani/cryptocurrency_clustering/blob/main/Resources/img/hv_scatter_plot.png">
 </p>
 <p align="center">  
-<i>Figure 1:2D-Scatter plot with TotalCoinMined vs TotalCoinSupply </i>
+<i>2D-Scatter plot with TotalCoinMined vs TotalCoinSupply </i>
 </p>
 
 <img src="https://github.com/Tifarahani/cryptocurrency_clustering/blob/main/Resources/img/Deliv.4.png">
