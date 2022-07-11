@@ -1,6 +1,7 @@
 # crypto_currency_clustering
 #### Overview of Project:
 The purpose of this analysis is to use unsupervised machine, learning to create a report that includes the types of cryptocurrencies on the trading market and a classification system to group the currencies for clients investment portfolios, The output is unknown, the best method would be unsupervised learning and clustering algorithms to group the currencies.  preprocess the data for PCA (Principal Component Analysis), reducing dimensions for PCA, clustering by k-means then visualizing (2D and 3D scatter plots) the results to decide whether or not a crypto currency is tradable.
+
 ---
 
 #### Deliverable 1: Preprocessing the Data for PCA
@@ -24,9 +25,9 @@ The purpose of this analysis is to use unsupervised machine, learning to create 
 <i>Figure 1:2D-Scatter plot with TotalCoinMined vs TotalCoinSupply </i>
 </p>
 ---
-Resources:
 
-* Python
-* Anaconda Navigator 
-* Conda
-* Jupyter Notebook 
+* Resources:
+  * Python
+  * Anaconda Navigator 
+  * Conda
+  * Jupyter Notebook 
